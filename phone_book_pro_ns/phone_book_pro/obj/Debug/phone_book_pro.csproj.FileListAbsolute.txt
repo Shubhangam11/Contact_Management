@@ -1,0 +1,24 @@
+C:\Users\Rec User\source\repos\phone_book_pro_ns\phone_book_pro\bin\Debug\phone_book_pro.exe
+C:\Users\Rec User\source\repos\phone_book_pro_ns\phone_book_pro\bin\Debug\phone_book_pro.pdb
+C:\Users\Rec User\source\repos\phone_book_pro_ns\phone_book_pro\obj\Debug\phone_book_pro.About_us.resources
+C:\Users\Rec User\source\repos\phone_book_pro_ns\phone_book_pro\obj\Debug\phone_book_pro.Form1.resources
+C:\Users\Rec User\source\repos\phone_book_pro_ns\phone_book_pro\obj\Debug\phone_book_pro.Properties.Resources.resources
+C:\Users\Rec User\source\repos\phone_book_pro_ns\phone_book_pro\obj\Debug\phone_book_pro.Reg_data.resources
+C:\Users\Rec User\source\repos\phone_book_pro_ns\phone_book_pro\obj\Debug\phone_book_pro.Search_Form.resources
+C:\Users\Rec User\source\repos\phone_book_pro_ns\phone_book_pro\obj\Debug\phone_book_pro.csproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\phone_book_pro_ns\phone_book_pro\obj\Debug\phone_book_pro.csproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\phone_book_pro_ns\phone_book_pro\obj\Debug\phone_book_pro.exe
+C:\Users\Rec User\source\repos\phone_book_pro_ns\phone_book_pro\obj\Debug\phone_book_pro.pdb
+C:\Users\Rec User\source\repos\phone_book_pro_ns\phone_book_pro\obj\Debug\phone_book_pro.csprojAssemblyReference.cache
+C:\Users\Shubhangam\Desktop\Contact_Management\phone_book_pro_ns\phone_book_pro\bin\Debug\phone_book_pro.exe
+C:\Users\Shubhangam\Desktop\Contact_Management\phone_book_pro_ns\phone_book_pro\bin\Debug\phone_book_pro.pdb
+C:\Users\Shubhangam\Desktop\Contact_Management\phone_book_pro_ns\phone_book_pro\obj\Debug\phone_book_pro.csprojAssemblyReference.cache
+C:\Users\Shubhangam\Desktop\Contact_Management\phone_book_pro_ns\phone_book_pro\obj\Debug\phone_book_pro.About_us.resources
+C:\Users\Shubhangam\Desktop\Contact_Management\phone_book_pro_ns\phone_book_pro\obj\Debug\phone_book_pro.Form1.resources
+C:\Users\Shubhangam\Desktop\Contact_Management\phone_book_pro_ns\phone_book_pro\obj\Debug\phone_book_pro.Properties.Resources.resources
+C:\Users\Shubhangam\Desktop\Contact_Management\phone_book_pro_ns\phone_book_pro\obj\Debug\phone_book_pro.Reg_data.resources
+C:\Users\Shubhangam\Desktop\Contact_Management\phone_book_pro_ns\phone_book_pro\obj\Debug\phone_book_pro.Search_Form.resources
+C:\Users\Shubhangam\Desktop\Contact_Management\phone_book_pro_ns\phone_book_pro\obj\Debug\phone_book_pro.csproj.GenerateResource.cache
+C:\Users\Shubhangam\Desktop\Contact_Management\phone_book_pro_ns\phone_book_pro\obj\Debug\phone_book_pro.csproj.CoreCompileInputs.cache
+C:\Users\Shubhangam\Desktop\Contact_Management\phone_book_pro_ns\phone_book_pro\obj\Debug\phone_book_pro.exe
+C:\Users\Shubhangam\Desktop\Contact_Management\phone_book_pro_ns\phone_book_pro\obj\Debug\phone_book_pro.pdb
