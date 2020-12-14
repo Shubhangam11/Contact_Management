@@ -33,7 +33,18 @@ namespace phone_book_pro
 
             //-----------------------------------
         }
+        private bool Check_if_ID_exists(string ID)
+        {
+            string fn = "C:\\Users\\Shubhangam\\Desktop\\Contact_Management\\phone_book_pro_ns\\user_data";
+            string p = fn + ID;
+            string[] arr = { "_fn.txt", "_ln.txt", "_tel.txt", "_cell.txt", "_email.txt", "_add.text", "_comm.txt" };
+            for (int s = 0; s < arr.Length; s++) {
+                if (System.IO.File.Exists(p + arr[s]))
+                    return true;
 
+            } 
+            return false;
+        }
         private void Save_butt_Click(object sender, EventArgs e)
         {
             if (this.id_textBox1.Text=="")
